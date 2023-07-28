@@ -1,0 +1,23 @@
+.navbar-brand{
+    /*font-family: 'Akshar', sans-serif;*/
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+.navbar{
+    /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Jost', sans-serif;
+}
+
+.carousel-item img{
+    height: 450px;
+    width: 400px;
+}
+
+.carousel-inner{
+    padding-bottom: 30px;
+}
+
+.col-sm-6{
+    margin-bottom: 30px;
+}
